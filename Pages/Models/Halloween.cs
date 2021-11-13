@@ -12,5 +12,6 @@ namespace halloweenParty.Models
         public int age {   get; set;   }
         public int arrivalTime {  get; set;   }
         public bool parking {   get; set;   }
+        
     }
 }
