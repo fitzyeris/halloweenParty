@@ -19,7 +19,6 @@ C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.Tag
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.RazorCoreGenerate.cache
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -34,3 +33,5 @@ C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.gen
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.csproj.CopyComplete
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.csproj.AssemblyReference.cache
 C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\halloweenParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\GuestList.cshtml.g.cs
+C:\Users\newge\Desktop\halloweenParty\obj\Debug\netcoreapp3.1\Razor\Pages\Gallery.cshtml.g.cs

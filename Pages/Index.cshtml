@@ -1,11 +1,26 @@
-﻿@page
+﻿@* necessary at the top of a .cshtml file  *@
+@* Home page HTML stuff *@
+@page
+
 @model IndexModel
+
+@* Title in the tab bar *@
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home";
 }
 
+<link rel="stylesheet" href="/css/home.css">
+ 
 <div class="text-center">
     <h1 class="display-4">Home</h1>
-    <p>You're invited to the Halloween Party of the year!</p>
-    <p>@DateTime.Now</p>
+    <p>You're invited to the Halloween Party of the year!</p> 
 </div>
+
+<script> 
+    var RSVP = document.createElement('button');
+    RSVP.id = "rsvpButton";
+    RSVP.innerHTML = "RSVP!";
+    document.body.appendChild(RSVP);
+</script>
+
+

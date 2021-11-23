@@ -6,12 +6,12 @@
     <title>@ViewData["Title"] - halloweenParty</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/ghost.css" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar-expand-sm navbar-toggleable-sm ">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">halloweenParty</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,7 +22,13 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/GuestList">Guest List</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/About">About</a>
                         </li>
                     </ul>
                 </div>
@@ -35,9 +41,22 @@
         </main>
     </div>
 
+    <div class="halloween">
+	<div class="head">
+		<div class="skull">
+			<div class="eyes">
+				<div class="eye eye-left"></div>
+				<div class="eye eye-right"></div>
+			</div>
+		</div>
+	</div>
+	<div class="body"></div>
+	<div class="legs"></div>
+</div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - halloweenParty - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2021 - Site by Eris Fitzgerald - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
 

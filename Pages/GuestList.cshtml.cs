@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace halloweenParty.Pages
 {
-    public class PrivacyModel : PageModel
+    public class GuestListModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<GuestListModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public GuestListModel(ILogger<GuestListModel> logger)
         {
             _logger = logger;
         }

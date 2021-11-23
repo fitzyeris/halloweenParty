@@ -14407,8 +14407,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\newge\\Desktop\\halloweenParty\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\newge\\Desktop\\halloweenParty\\Pages\\Gallery.cshtml",
+      "TargetPath": "Pages\\Gallery.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14429,6 +14429,11 @@
     {
       "FilePath": "c:\\Users\\newge\\Desktop\\halloweenParty\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\newge\\Desktop\\halloweenParty\\Pages\\GuestList.cshtml",
+      "TargetPath": "Pages\\GuestList.cshtml",
       "FileKind": "mvc"
     },
     {
